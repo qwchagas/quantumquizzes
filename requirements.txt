@@ -1,1 +1,2 @@
 jupyterquiz==1.8
+jupytercards==1.9.0
